@@ -17,10 +17,6 @@
 
 <img src="./media/User_create.jpg">
 
-### Вміст таблиці 'User' у базі 'quiz' даних після видалення юзеру
-
-<img src="./media/User_create_sql.jpg">
-
 ### Помилка створення юзера по причині: "Пошта вже існує"
 
 <img src="./media/User_email.jpg">

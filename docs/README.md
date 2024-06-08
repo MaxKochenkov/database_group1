@@ -3,7 +3,7 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © 2024 Kochenkov Max"
+footer: "ECL 2.0 Licensed | Copyright © 2024 Melnik Oleg"
 ---
 
 
@@ -11,7 +11,7 @@ footer: "ECL 2.0 Licensed | Copyright © 2024 Kochenkov Max"
 
 *студент 2-го курсу, групи ІО-21*<span padding-right:5em></span> 
 
-**Коченков Максим [mkochenkov@gmail.com, @whyhatemek]**
+**Мельник Олег [mo091294mo@gmail.com, @olehmeln10]**
 
 **Керівник**
 
